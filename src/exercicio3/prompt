@@ -1,0 +1,3 @@
+Olá, preciso de ajuda
+Tenho uma ArrayList de objetos da classe Pessoa, que possui os atributos nome e idade.
+Quero ordenar essa lista por idade em ordem crescente, pode me mostrar como fazer isso em Java?
