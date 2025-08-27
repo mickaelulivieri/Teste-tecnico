@@ -1,7 +1,5 @@
 package exercicio2;
 
-//main para instanciar objetos e mostrar resultado no console
-
 public class Main {
     public static void main(String[] args) {
         Moto moto = new Moto("Yamaha", 2022, "MT-07", 689);
